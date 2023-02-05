@@ -1,0 +1,62 @@
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\appsettings.json
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Projekat Vezbe.exe
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Projekat Vezbe.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Projekat Vezbe.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Projekat Vezbe.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Projekat Vezbe.pdb
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Humanizer.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\scopedcss\bundle\Projekat Vezbe.styles.css
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.csproj.CopyComplete
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\refint\Projekat Vezbe.dll
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.pdb
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\Projekat Vezbe.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\Web programiranje\Projekat Vezbe\obj\Debug\net6.0\ref\Projekat Vezbe.dll

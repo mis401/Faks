@@ -1,0 +1,31 @@
+2.11. primer sa blanketa 14.09.2021.
+model pa podaci u bazu
+nullable u csproj
+MS kaze da ne moraju properties da budu null vec da se stavi nesto sto se zove ?? null forgiving operator! NE KORISTI DEFAULT SAMO NULL!
+raaziciti string literali u c#, obican literal ocekuje escape sequence, a ako stavimmo @ to je verbatim string i nista ne tretira kao specijalne sem "
+$str je interpolation string gde unutar {} mozemo da stavimo neku promenljivu, """" """" moze da strpa ceo json i da highlightuje i sve ostalo
+brise se baza pa migracije
+jsonignore se koristi za serijalizaciju (npr hocu pticu i osobine ali ne zelim ciklicnu vezu)
+_____________________________________________________________________________________________________________________
+8.11.
+group by ne moze da se koristi direktno kroz linq upite
+iz baze u memoriju pa onda baratanje s njima
+savechanges vraca id
+null! samo znaci e ne proveravaj ali ne znaci da je tu null dozvoljen ako je nullable enable
+from query ako ne znamo sta salje korisnik, a moze i da se koristi ruta ako znamo sta koristi
+from body je najkorsiniji
+from query neobavezan ili vise
+from route salje argument kroz rutu u funkciju
+add, update, delete nisu async jer rade DIREKTNO sa kontekstom pa mora da se radi savechanges
+context ti omogucava rad sa bazom i httpom i zato tamo imas dbset propertije
+konfiguracija aplikacije (ima nesto na timz)
+na github je okacio nesto na web programiranju, OData?!
+IIS konfig
+Odata manipulacija podacima kroz url
+pretrage kroz url select filter itd
+recursionlimit kao jsonignore
+
+
+da vidimo da odstampamo komande da ih verifikuje
+ne pisemo nista sem template za html
+css pisemo, raspored boje elementarno
