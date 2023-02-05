@@ -1,0 +1,5 @@
+﻿  server.cpp
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\RM lab vezba 4\RM lab vezba 4\server.cpp(4,36): warning C4081: expected 'newline'; found ';'
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\RM lab vezba 4\RM lab vezba 4\server.cpp(55,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\RM lab vezba 4\RM lab vezba 4\server.cpp(63,7): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  RM lab vezba 4.vcxproj -> C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\RM lab vezba 4\x64\Debug\RM lab vezba 4.exe

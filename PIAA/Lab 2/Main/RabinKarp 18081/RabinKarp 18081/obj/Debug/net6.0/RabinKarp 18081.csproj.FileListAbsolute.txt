@@ -1,0 +1,15 @@
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\bin\Debug\net6.0\RabinKarp 18081.exe
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\bin\Debug\net6.0\RabinKarp 18081.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\bin\Debug\net6.0\RabinKarp 18081.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\bin\Debug\net6.0\RabinKarp 18081.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\bin\Debug\net6.0\RabinKarp 18081.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\RabinKarp 18081.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\RabinKarp 18081.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\RabinKarp 18081.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\RabinKarp 18081.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\RabinKarp 18081.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\RabinKarp 18081.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\refint\RabinKarp 18081.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\RabinKarp 18081.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\RabinKarp 18081.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Main\RabinKarp 18081\RabinKarp 18081\obj\Debug\net6.0\ref\RabinKarp 18081.dll

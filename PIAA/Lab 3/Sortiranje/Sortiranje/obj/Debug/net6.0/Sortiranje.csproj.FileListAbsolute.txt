@@ -1,0 +1,15 @@
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\Sortiranje.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\Sortiranje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\Sortiranje.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\Sortiranje.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\Sortiranje.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\bin\Debug\net6.0\Sortiranje.exe
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\bin\Debug\net6.0\Sortiranje.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\bin\Debug\net6.0\Sortiranje.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\bin\Debug\net6.0\Sortiranje.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\bin\Debug\net6.0\Sortiranje.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\Sortiranje.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\refint\Sortiranje.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\Sortiranje.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\Sortiranje.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 3\Sortiranje\Sortiranje\obj\Debug\net6.0\ref\Sortiranje.dll

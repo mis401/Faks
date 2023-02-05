@@ -1,0 +1,15 @@
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\bin\Debug\net6.0\Belman-Ford.exe
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\bin\Debug\net6.0\Belman-Ford.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\bin\Debug\net6.0\Belman-Ford.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\bin\Debug\net6.0\Belman-Ford.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\bin\Debug\net6.0\Belman-Ford.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\Belman-Ford.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\Belman-Ford.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\Belman-Ford.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\Belman-Ford.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\Belman-Ford.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\Belman-Ford.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\refint\Belman-Ford.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\Belman-Ford.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\Belman-Ford.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 6\Belman-Ford\Belman-Ford\obj\Debug\net6.0\ref\Belman-Ford.dll

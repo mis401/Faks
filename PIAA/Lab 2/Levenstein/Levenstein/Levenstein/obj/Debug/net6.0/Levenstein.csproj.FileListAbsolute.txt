@@ -1,0 +1,15 @@
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\bin\Debug\net6.0\Levenstein.exe
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\bin\Debug\net6.0\Levenstein.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\bin\Debug\net6.0\Levenstein.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\bin\Debug\net6.0\Levenstein.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\bin\Debug\net6.0\Levenstein.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\Levenstein.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\Levenstein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\Levenstein.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\Levenstein.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\Levenstein.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\Levenstein.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\refint\Levenstein.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\Levenstein.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\Levenstein.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Levenstein\Levenstein\Levenstein\obj\Debug\net6.0\ref\Levenstein.dll

@@ -1,0 +1,15 @@
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\Fibonacijev heap CS.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\Fibonacijev heap CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\Fibonacijev heap CS.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\Fibonacijev heap CS.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\Fibonacijev heap CS.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\bin\Debug\net6.0\Fibonacijev heap CS.exe
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\bin\Debug\net6.0\Fibonacijev heap CS.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\bin\Debug\net6.0\Fibonacijev heap CS.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\bin\Debug\net6.0\Fibonacijev heap CS.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\bin\Debug\net6.0\Fibonacijev heap CS.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\Fibonacijev heap CS.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\refint\Fibonacijev heap CS.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\Fibonacijev heap CS.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\Fibonacijev heap CS.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 4\Fibonacijev heap CS\Fibonacijev heap CS\obj\Debug\net6.0\ref\Fibonacijev heap CS.dll

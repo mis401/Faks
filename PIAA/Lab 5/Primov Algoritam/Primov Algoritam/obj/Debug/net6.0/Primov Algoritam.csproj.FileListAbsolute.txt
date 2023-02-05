@@ -1,0 +1,15 @@
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\bin\Debug\net6.0\Primov Algoritam.exe
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\bin\Debug\net6.0\Primov Algoritam.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\bin\Debug\net6.0\Primov Algoritam.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\bin\Debug\net6.0\Primov Algoritam.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\bin\Debug\net6.0\Primov Algoritam.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\Primov Algoritam.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\Primov Algoritam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\Primov Algoritam.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\Primov Algoritam.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\Primov Algoritam.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\Primov Algoritam.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\refint\Primov Algoritam.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\Primov Algoritam.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\Primov Algoritam.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 5\Primov Algoritam\Primov Algoritam\obj\Debug\net6.0\ref\Primov Algoritam.dll

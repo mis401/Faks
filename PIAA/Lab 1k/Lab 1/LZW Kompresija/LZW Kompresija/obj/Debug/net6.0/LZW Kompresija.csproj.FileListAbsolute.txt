@@ -1,0 +1,15 @@
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\LZW Kompresija.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\LZW Kompresija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\LZW Kompresija.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\LZW Kompresija.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\LZW Kompresija.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\bin\Debug\net6.0\LZW Kompresija.exe
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\bin\Debug\net6.0\LZW Kompresija.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\bin\Debug\net6.0\LZW Kompresija.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\bin\Debug\net6.0\LZW Kompresija.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\bin\Debug\net6.0\LZW Kompresija.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\LZW Kompresija.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\refint\LZW Kompresija.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\LZW Kompresija.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\LZW Kompresija.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 1\LZW Kompresija\LZW Kompresija\obj\Debug\net6.0\ref\LZW Kompresija.dll

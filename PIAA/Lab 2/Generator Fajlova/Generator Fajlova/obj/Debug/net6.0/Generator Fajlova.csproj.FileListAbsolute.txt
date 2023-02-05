@@ -1,0 +1,15 @@
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\bin\Debug\net6.0\Generator Fajlova.exe
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\bin\Debug\net6.0\Generator Fajlova.deps.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\bin\Debug\net6.0\Generator Fajlova.runtimeconfig.json
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\bin\Debug\net6.0\Generator Fajlova.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\bin\Debug\net6.0\Generator Fajlova.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\Generator Fajlova.csproj.AssemblyReference.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\Generator Fajlova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\Generator Fajlova.AssemblyInfoInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\Generator Fajlova.AssemblyInfo.cs
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\Generator Fajlova.csproj.CoreCompileInputs.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\Generator Fajlova.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\refint\Generator Fajlova.dll
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\Generator Fajlova.pdb
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\Generator Fajlova.genruntimeconfig.cache
+C:\Users\MihajloBencun\Desktop\Faks\PIAA\Lab 2\Generator Fajlova\Generator Fajlova\obj\Debug\net6.0\ref\Generator Fajlova.dll
