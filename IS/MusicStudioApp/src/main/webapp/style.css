@@ -1,0 +1,99 @@
+* { color: white; }
+
+.title { text-align: center; }
+
+body {
+	background: gray;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+
+	height: 100vh;
+}
+
+.container { display: flex; flex-direction: column;  }
+
+.button {
+	background-color: light-gray;
+	padding: 5px;
+	border-radius: 10px;
+	border: 1px solid white;
+	cursor: pointer;
+	margin: 5px;
+	
+	justify-self: center;
+	background-color: blue;
+	
+	width: 200px;
+}
+
+.button:hover {
+	background-color: #00ff40;
+}
+
+form {
+	margin: 5px;
+	padding: 5px;
+	background-color: #FF000033;
+	border-radius: 4px;
+}
+
+form.stud {
+	background-color: #FF000033;
+}
+
+form.prof {
+	background-color: #00FF0033;
+}
+
+form.asis {
+	background-color: #8080c0;
+}
+
+.subTitle {
+	text-align: center;
+	font-size: 20px;
+	color: red;
+	width: fit-content;
+}
+
+
+input[type="text"] {
+	background-color: #0080ff;
+	padding: 5px;
+	border-radius: 4px;
+	border: 1px solid #ff80c0;
+	margin: 5px;
+	background-color: #8080c0;
+}
+
+input[type="text"]:hover {
+	background-color: purple;
+	border: 1px solid white;
+}
+
+label {
+	display: inline-block;
+	min-width: 300px;
+}
+
+
+table {
+	margin: 20px auto 50px auto;
+	border-collapse: collapse;
+    border-style: hidden;
+	font-size:23px;
+	font-weight:bold;
+	text-align:center;
+	background-color: transparent;
+}
+
+table td, table th {
+    border: 3px solid white;
+}
+
+th {
+	padding: 5px 10px;
+	color: red;
+}
+

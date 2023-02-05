@@ -1,0 +1,17 @@
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\bin\Debug\net6.0-windows\Evaluacija WinForm.exe
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\bin\Debug\net6.0-windows\Evaluacija WinForm.deps.json
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\bin\Debug\net6.0-windows\Evaluacija WinForm.runtimeconfig.json
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\bin\Debug\net6.0-windows\Evaluacija WinForm.dll
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\bin\Debug\net6.0-windows\Evaluacija WinForm.pdb
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.csproj.AssemblyReference.cache
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija_WinForm.MainForm.resources
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.csproj.GenerateResource.cache
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.AssemblyInfoInputs.cache
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.AssemblyInfo.cs
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.csproj.CoreCompileInputs.cache
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.dll
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\refint\Evaluacija WinForm.dll
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.pdb
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\Evaluacija WinForm.genruntimeconfig.cache
+D:\Faks\OOP2\Evaluacija WinForm\Evaluacija WinForm\obj\Debug\net6.0-windows\ref\Evaluacija WinForm.dll
